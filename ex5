@@ -1,0 +1,14 @@
+'''
+ex5.py
+'''
+text=str(input('Enter your text: '))
+words=text.split()
+i=0
+
+
+longest=""
+for word in words:
+    if len(word)>len(longest):
+        longest=word
+
+print(longest)

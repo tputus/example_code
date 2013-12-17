@@ -1,0 +1,19 @@
+﻿Build started 08/06/2011 12:16:38.
+     1>Project "G:\c++\quadratic equation solver\quadratic equation solver\quadratic equation solver.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\quadratic equation solver.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "quadratic equation solver.cpp"
+         quadratic equation solver.cpp
+     1>g:\c++\quadratic equation solver\quadratic equation solver\quadratic equation solver.cpp(21): error C3861: 'SQRT': identifier not found
+     1>g:\c++\quadratic equation solver\quadratic equation solver\quadratic equation solver.cpp(22): error C2668: 'sqrt' : ambiguous call to overloaded function
+                 c:\program files\microsoft visual studio 10.0\vc\include\math.h(589): could be 'long double sqrt(long double)'
+                 c:\program files\microsoft visual studio 10.0\vc\include\math.h(541): or       'float sqrt(float)'
+                 c:\program files\microsoft visual studio 10.0\vc\include\math.h(127): or       'double sqrt(double)'
+                 while trying to match the argument list '(int)'
+     1>g:\c++\quadratic equation solver\quadratic equation solver\quadratic equation solver.cpp(25): fatal error C1075: end of file found before the left brace '{' at 'g:\c++\quadratic equation solver\quadratic equation solver\quadratic equation solver.cpp(6)' was matched
+     1>Done Building Project "G:\c++\quadratic equation solver\quadratic equation solver\quadratic equation solver.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:08.89

@@ -1,0 +1,14 @@
+12345 35000 consultant Bart Simpson
+12346 25000 technician Ned Flanders
+12347 20000 secretary Lisa Simpson
+12348 20000 secretary Hermione Grainger
+12349 30000 consultant Harry Potter
+12350 15000 entertainer Herschel Shmoikel Krustofski
+13123 75000 consultant David Beckham
+13124 60000 manager Alex Ferguson
+13125 45000 manager Roberto Mancini
+13126 30000 lecturer Mike T Sanderson
+13127 25000 technician Amy Pond
+13128 500 timelord Matt Smith
+13129 25000 technician River Storm
+13130 22000 secretary Rose Tyler

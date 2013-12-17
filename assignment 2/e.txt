@@ -1,0 +1,8 @@
+23 7500 manager Ned Flanders
+33 2000 secretary Lisa Simpson
+44 2500 secretary Harry Potter
+54 6000 teacher Mike T Sanderson
+11 5000 teacher Bart Simpson
+66 2100 secretary Rose Tyler
+77 500 doctor Doctor Who
+85 4500 teacher Sarah Jane Smith
